@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Recém-formada no curso Técnico em Informática - IFRS, e atualmente cursando Ciencia da Computação - UPF possuo conhecimentos em linguagens de programação, banco de dados e desenvolvimento web e mobile. Sou ágil na resolução de problemas e tenho facilidade para aprender rapidamente. Busco oportunidades para aplicar minhas habilidades, enfrentar novos desafios, além de contribuir para o crescimento da empresa, fazendo a diferença no mundo da tecnologia.
+Recém-formada no curso Técnico em Informática - IFRS, e atualmente cursando Ciencia da Computação - UPF, possuo conhecimentos em linguagens de programação, banco de dados e desenvolvimento web e mobile. Sou ágil na resolução de problemas e tenho facilidade para aprender rapidamente. Busco oportunidades para aplicar minhas habilidades, enfrentar novos desafios, além de contribuir para o crescimento da empresa, fazendo a diferença no mundo da tecnologia.
 
 ---
 
