@@ -77,6 +77,7 @@ Recém-formada no curso Técnico em Informática - IFRS, e atualmente cursando C
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+
 <br/>
 <br/>
 
